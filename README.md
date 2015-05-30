@@ -97,6 +97,6 @@ result:
 
 ## More
 	
-The code of string processing of mysql base [mysql-5.1.74](https://github.com/mysql/mysql-server )
+String processing of mysql base [mysql-5.1.74](https://github.com/mysql/mysql-server )
 
 More related analysis base Chinese is [here](http://redfoxli.github.io/lower-diff-between-php-and-mysql.html)
